@@ -2,7 +2,7 @@
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
-1. [Peraturan ANRI Nomor 14 Tahun 2012](ebook/Peraturan ANRI Nomor 14 Tahun 2012.pdf) - Amir Syamsudin (2012)
+1. [Peraturan ANRI Nomor 14 Tahun 2012](ebook/Peraturan%20ANRI%20Nomor%2014%20Tahun%202012.pdf) - Amir Syamsudin (2012)
 2. [Manajemen Perpustakaan Digital](ebook/manajemen-perpustakaan-digital.pdf) - Andi Asari dkk. (2023)
 3. [Perancangan Media Pembelajaran](ebook/perancangan-media-pembelajaran.pdf) - Abdul Azis Said dkk. (2017)
 4. [Sistem Informasi Perpustakaan Digital: Konsep dan Praktik](ebook/sistem-informasi-perpustakaan-digital.pdf) - Penulis (2026)
