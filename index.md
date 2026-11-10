@@ -18,6 +18,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 10. [Degrees of Academic](ebook/Degrees%20of%20Academic.pdf) - Bryn Geffert (2026)
 11. [Introduction to Library](ebook/Introduction%20to%20Library.pdf) - Reed Hepler & David Horalek (2023)
 12. [Rangkuman Materi UGC](ebook/Rangkuman%20Materi%20UGC.pdf) - Naida Adhwa (2026)
+
 Naida Adhwa Fadhilah  
 (13040124140172)  
 D
